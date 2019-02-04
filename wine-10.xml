@@ -1,0 +1,122 @@
+<root>
+ <raw>
+  <>0</>
+  <country>US</country>
+  <designation>Martha's Vineyard</designation>
+  <points>96</points>
+  <price>235</price>
+  <province>California</province>
+  <region_1>Napa Valley</region_1>
+  <region_2>Napa</region_2>
+  <variety>Cabernet Sauvignon</variety>
+  <winery>Heitz</winery>
+ </raw>
+ <raw>
+  <>1</>
+  <country>Spain</country>
+  <designation>Carodorum Selecci처n Especial Reserva</designation>
+  <points>96</points>
+  <price>110</price>
+  <province>Northern Spain</province>
+  <region_1>Toro</region_1>
+  <region_2> </region_2>
+  <variety>Tinta de Toro</variety>
+  <winery>Bodega Carmen Rodr챠guez</winery>
+ </raw>
+ <raw>
+  <>2</>
+  <country>US</country>
+  <designation>Special Selected Late Harvest</designation>
+  <points>96</points>
+  <price>90</price>
+  <province>California</province>
+  <region_1>Knights Valley</region_1>
+  <region_2>Sonoma</region_2>
+  <variety>Sauvignon Blanc</variety>
+  <winery>Macauley</winery>
+ </raw>
+ <raw>
+  <>3</>
+  <country>US</country>
+  <designation>Reserve</designation>
+  <points>96</points>
+  <price>65</price>
+  <province>Oregon</province>
+  <region_1>Willamette Valley</region_1>
+  <region_2>Willamette Valley</region_2>
+  <variety>Pinot Noir</variety>
+  <winery>Ponzi</winery>
+ </raw>
+<raw>
+  <>4</>
+  <country>France</country>
+  <designation>La Br청lade</designation>
+  <points>95</points>
+  <price>66</price>
+  <province>Provence</province>
+  <region_1>Bandol</region_1>
+  <region_2> </region_2>
+  <variety>Provence red blend</variety>
+  <winery>Domaine de la B챕gude</winery>
+ </raw>
+<raw>
+  <>5</>
+  <country>Spain</country>
+  <designation>Numanthia</designation>
+  <points>95</points>
+  <price>73</price>
+  <province>Northern Spain</province>
+  <region_1>Toro</region_1>
+  <region_2> </region_2>
+  <variety>Tinta de Toro</variety>
+  <winery>Numanthia</winery>
+ </raw>
+<raw>
+  <>6</>
+  <country>Spain</country>
+  <designation>San Rom찼n</designation>
+  <points>95</points>
+  <price>65</price>
+  <province>Northern Spain</province>
+  <region_1>Toro</region_1>
+  <region_2> </region_2>
+  <variety>Tinta de Toro</variety>
+  <winery>Maurodos</winery>
+ </raw>
+<raw>
+  <>7</>
+  <country>Spain</country>
+  <designation>Carodorum 횣nico Crianza</designation>
+  <points>95</points>
+  <price>110</price>
+  <province>Northern Spain</province>
+  <region_1>Toro</region_1>
+  <region_2> </region_2>
+  <variety>Tinta de Toro</variety>
+  <winery>Bodega Carmen Rodr챠guez</winery>
+ </raw>
+<raw>
+  <>8</>
+  <country>US</country>
+  <designation>Silice</designation>
+  <points>95</points>
+  <price>65</price>
+  <province>Oregon</province>
+  <region_1>Chehalem Mountains</region_1>
+  <region_2>Willamette Valley</region_2>
+  <variety>Pinot Noir</variety>
+  <winery>Bergstr철m</winery>
+ </raw>
+<raw>
+  <>9</>
+  <country>US</country>
+  <designation>Gap's Crown Vineyard</designation>
+  <points>95</points>
+  <price>60</price>
+  <province>California</province>
+  <region_1>Sonoma Coast</region_1>
+  <region_2>Sonoma</region_2>
+  <variety>Pinot Noir</variety>
+  <winery>Blue Farm</winery>
+ </raw>
+</root>
