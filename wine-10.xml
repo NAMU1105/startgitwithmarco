@@ -1,6 +1,6 @@
 <root>
  <row>
-  <>0</>
+  <id>0</id>
   <country>US</country>
   <designation>Martha's Vineyard</designation>
   <points>96</points>
@@ -12,19 +12,19 @@
   <winery>Heitz</winery>
  </row>
  <row>
-  <>1</>
+  <id>1</id>
   <country>Spain</country>
   <designation>Carodorum Selecci처n Especial Reserva</designation>
   <points>96</points>
   <price>110</price>
   <province>Northern Spain</province>
   <region_1>Toro</region_1>
-  <region_2></region_2>
+  <region_2>id</region_2>
   <variety>Tinta de Toro</variety>
   <winery>Bodega Carmen Rodr챠guez</winery>
  </row>
  <row>
-  <>2</>
+  <id>2</id>
   <country>US</country>
   <designation>Special Selected Late Harvest</designation>
   <points>96</points>
@@ -36,7 +36,7 @@
   <winery>Macauley</winery>
  </row>
  <row>
-  <>3</>
+  <id>3</id>
   <country>US</country>
   <designation>Reserve</designation>
   <points>96</points>
@@ -48,55 +48,55 @@
   <winery>Ponzi</winery>
  </row>
 <row>
-  <>4</>
+  <id>4</id>
   <country>France</country>
   <designation>La Br청lade</designation>
   <points>95</points>
   <price>66</price>
   <province>Provence</province>
   <region_1>Bandol</region_1>
-  <region_2></region_2>
+  <region_2>id</region_2>
   <variety>Provence red blend</variety>
   <winery>Domaine de la B챕gude</winery>
  </row>
 <row>
-  <>5</>
+  <id>5</id>
   <country>Spain</country>
   <designation>Numanthia</designation>
   <points>95</points>
   <price>73</price>
   <province>Northern Spain</province>
   <region_1>Toro</region_1>
-  <region_2></region_2>
+  <region_2>id</region_2>
   <variety>Tinta de Toro</variety>
   <winery>Numanthia</winery>
  </row>
 <row>
-  <>6</>
+  <id>6</id>
   <country>Spain</country>
   <designation>San Rom찼n</designation>
   <points>95</points>
   <price>65</price>
   <province>Northern Spain</province>
   <region_1>Toro</region_1>
-  <region_2></region_2>
+  <region_2>id</region_2>
   <variety>Tinta de Toro</variety>
   <winery>Maurodos</winery>
  </row>
 <row>
-  <>7</>
+  <id>7</id>
   <country>Spain</country>
   <designation>Carodorum 횣nico Crianza</designation>
   <points>95</points>
   <price>110</price>
   <province>Northern Spain</province>
   <region_1>Toro</region_1>
-  <region_2></region_2>
+  <region_2>id</region_2>
   <variety>Tinta de Toro</variety>
   <winery>Bodega Carmen Rodr챠guez</winery>
  </row>
 <row>
-  <>8</>
+  <id>8</id>
   <country>US</country>
   <designation>Silice</designation>
   <points>95</points>
@@ -108,7 +108,7 @@
   <winery>Bergstr철m</winery>
  </row>
 <row>
-  <>9</>
+  <id>9</id>
   <country>US</country>
   <designation>Gap's Crown Vineyard</designation>
   <points>95</points>
