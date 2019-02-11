@@ -19,7 +19,7 @@
   <price>110</price>
   <province>Northern Spain</province>
   <region_1>Toro</region_1>
-  <region_2> </region_2>
+  <region_2></region_2>
   <variety>Tinta de Toro</variety>
   <winery>Bodega Carmen Rodr챠guez</winery>
  </row>
@@ -55,7 +55,7 @@
   <price>66</price>
   <province>Provence</province>
   <region_1>Bandol</region_1>
-  <region_2> </region_2>
+  <region_2></region_2>
   <variety>Provence red blend</variety>
   <winery>Domaine de la B챕gude</winery>
  </row>
@@ -67,7 +67,7 @@
   <price>73</price>
   <province>Northern Spain</province>
   <region_1>Toro</region_1>
-  <region_2> </region_2>
+  <region_2></region_2>
   <variety>Tinta de Toro</variety>
   <winery>Numanthia</winery>
  </row>
@@ -79,7 +79,7 @@
   <price>65</price>
   <province>Northern Spain</province>
   <region_1>Toro</region_1>
-  <region_2> </region_2>
+  <region_2></region_2>
   <variety>Tinta de Toro</variety>
   <winery>Maurodos</winery>
  </row>
@@ -91,7 +91,7 @@
   <price>110</price>
   <province>Northern Spain</province>
   <region_1>Toro</region_1>
-  <region_2> </region_2>
+  <region_2></region_2>
   <variety>Tinta de Toro</variety>
   <winery>Bodega Carmen Rodr챠guez</winery>
  </row>
