@@ -1,5 +1,5 @@
 <root>
- <raw>
+ <row>
   <>0</>
   <country>US</country>
   <designation>Martha's Vineyard</designation>
@@ -10,8 +10,8 @@
   <region_2>Napa</region_2>
   <variety>Cabernet Sauvignon</variety>
   <winery>Heitz</winery>
- </raw>
- <raw>
+ </row>
+ <row>
   <>1</>
   <country>Spain</country>
   <designation>Carodorum Selecci처n Especial Reserva</designation>
@@ -22,8 +22,8 @@
   <region_2> </region_2>
   <variety>Tinta de Toro</variety>
   <winery>Bodega Carmen Rodr챠guez</winery>
- </raw>
- <raw>
+ </row>
+ <row>
   <>2</>
   <country>US</country>
   <designation>Special Selected Late Harvest</designation>
@@ -34,8 +34,8 @@
   <region_2>Sonoma</region_2>
   <variety>Sauvignon Blanc</variety>
   <winery>Macauley</winery>
- </raw>
- <raw>
+ </row>
+ <row>
   <>3</>
   <country>US</country>
   <designation>Reserve</designation>
@@ -46,8 +46,8 @@
   <region_2>Willamette Valley</region_2>
   <variety>Pinot Noir</variety>
   <winery>Ponzi</winery>
- </raw>
-<raw>
+ </row>
+<row>
   <>4</>
   <country>France</country>
   <designation>La Br청lade</designation>
@@ -58,8 +58,8 @@
   <region_2> </region_2>
   <variety>Provence red blend</variety>
   <winery>Domaine de la B챕gude</winery>
- </raw>
-<raw>
+ </row>
+<row>
   <>5</>
   <country>Spain</country>
   <designation>Numanthia</designation>
@@ -70,8 +70,8 @@
   <region_2> </region_2>
   <variety>Tinta de Toro</variety>
   <winery>Numanthia</winery>
- </raw>
-<raw>
+ </row>
+<row>
   <>6</>
   <country>Spain</country>
   <designation>San Rom찼n</designation>
@@ -82,8 +82,8 @@
   <region_2> </region_2>
   <variety>Tinta de Toro</variety>
   <winery>Maurodos</winery>
- </raw>
-<raw>
+ </row>
+<row>
   <>7</>
   <country>Spain</country>
   <designation>Carodorum 횣nico Crianza</designation>
@@ -94,8 +94,8 @@
   <region_2> </region_2>
   <variety>Tinta de Toro</variety>
   <winery>Bodega Carmen Rodr챠guez</winery>
- </raw>
-<raw>
+ </row>
+<row>
   <>8</>
   <country>US</country>
   <designation>Silice</designation>
@@ -106,8 +106,8 @@
   <region_2>Willamette Valley</region_2>
   <variety>Pinot Noir</variety>
   <winery>Bergstr철m</winery>
- </raw>
-<raw>
+ </row>
+<row>
   <>9</>
   <country>US</country>
   <designation>Gap's Crown Vineyard</designation>
@@ -118,5 +118,5 @@
   <region_2>Sonoma</region_2>
   <variety>Pinot Noir</variety>
   <winery>Blue Farm</winery>
- </raw>
+ </row>
 </root>
