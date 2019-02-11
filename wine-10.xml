@@ -1,5 +1,5 @@
 <root>
- <raw>
+<raw>
   <>0</>
   <country>US</country>
   <designation>Martha's Vineyard</designation>
@@ -46,7 +46,7 @@
   <region_2>Willamette Valley</region_2>
   <variety>Pinot Noir</variety>
   <winery>Ponzi</winery>
- </raw>
+</raw>
 <raw>
   <>4</>
   <country>France</country>
@@ -58,7 +58,7 @@
   <region_2> </region_2>
   <variety>Provence red blend</variety>
   <winery>Domaine de la B챕gude</winery>
- </raw>
+</raw>
 <raw>
   <>5</>
   <country>Spain</country>
@@ -70,7 +70,7 @@
   <region_2> </region_2>
   <variety>Tinta de Toro</variety>
   <winery>Numanthia</winery>
- </raw>
+</raw>
 <raw>
   <>6</>
   <country>Spain</country>
@@ -82,7 +82,7 @@
   <region_2> </region_2>
   <variety>Tinta de Toro</variety>
   <winery>Maurodos</winery>
- </raw>
+</raw>
 <raw>
   <>7</>
   <country>Spain</country>
@@ -94,7 +94,7 @@
   <region_2> </region_2>
   <variety>Tinta de Toro</variety>
   <winery>Bodega Carmen Rodr챠guez</winery>
- </raw>
+</raw>
 <raw>
   <>8</>
   <country>US</country>
@@ -106,7 +106,7 @@
   <region_2>Willamette Valley</region_2>
   <variety>Pinot Noir</variety>
   <winery>Bergstr철m</winery>
- </raw>
+</raw>
 <raw>
   <>9</>
   <country>US</country>
@@ -118,5 +118,5 @@
   <region_2>Sonoma</region_2>
   <variety>Pinot Noir</variety>
   <winery>Blue Farm</winery>
- </raw>
+</raw>
 </root>
